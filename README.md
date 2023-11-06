@@ -1,3 +1,3 @@
 # Demo
 
-Some thing important
+Something important
